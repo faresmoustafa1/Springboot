@@ -2,6 +2,20 @@
 
 This repository contains the projects and exercises I built while following a Spring Boot course on Udemy.
 
+## Course
+
+This work comes from the Udemy course:
+
+- "Spring Boot 4, Spring 7 & Hibernate for Beginners"
+
+Alternate/expanded listing used on the course page:
+
+- "Spring Boot 4: Learn Spring 7, Spring Core, Spring REST, Spring Security, JPA, Hibernate, Swagger, Spring MVC, MySQL"
+
+Instructor: Chad Darby
+
+If you'd like, I can add a direct link to the Udemy course page — tell me the preferred URL and I'll insert it.
+
 ## About
 
 The code in this repo is from a hands-on Spring Boot course I completed on Udemy. It includes example projects, exercises, and notes demonstrating Spring Boot fundamentals such as:
@@ -58,7 +72,7 @@ To run unit and integration tests with Maven:
 
 ## Credits
 
-This repository contains work based on a Spring Boot course on Udemy. If you'd like the exact course title or a link added to this README, tell me and I'll update it.
+This repository contains work based on a Udemy course by Chad Darby (see the Course section above for the exact title used).
 
 ## Author
 
